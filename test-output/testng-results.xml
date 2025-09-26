@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-22T09:45:34 IST" name="Default suite" finished-at="2025-09-22T09:45:43 IST" duration-ms="9105">
+    <groups>
+    </groups>
+    <test started-at="2025-09-22T09:45:34 IST" name="Default test" finished-at="2025-09-22T09:45:43 IST" duration-ms="9105">
+      <class name="testcases.ProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.ProductTest@74e28667]" started-at="2025-09-22T09:45:34 IST" name="setUp" finished-at="2025-09-22T09:45:35 IST" duration-ms="696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createNewProduct()[pri:0, instance:testcases.ProductTest@74e28667]" started-at="2025-09-22T09:45:35 IST" name="createNewProduct" finished-at="2025-09-22T09:45:39 IST" duration-ms="4203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewProduct -->
+        <test-method signature="deleteProduct()[pri:0, instance:testcases.ProductTest@74e28667]" started-at="2025-09-22T09:45:39 IST" name="deleteProduct" finished-at="2025-09-22T09:45:40 IST" duration-ms="568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProduct -->
+        <test-method signature="getAllCategories()[pri:0, instance:testcases.ProductTest@74e28667]" started-at="2025-09-22T09:45:40 IST" name="getAllCategories" finished-at="2025-09-22T09:45:40 IST" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCategories -->
+        <test-method signature="getAllProducts()[pri:0, instance:testcases.ProductTest@74e28667]" started-at="2025-09-22T09:45:40 IST" name="getAllProducts" finished-at="2025-09-22T09:45:41 IST" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllProducts -->
+        <test-method signature="getLimitedProduct()[pri:0, instance:testcases.ProductTest@74e28667]" started-at="2025-09-22T09:45:41 IST" name="getLimitedProduct" finished-at="2025-09-22T09:45:41 IST" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLimitedProduct -->
+        <test-method signature="getProductByCategory()[pri:0, instance:testcases.ProductTest@74e28667]" started-at="2025-09-22T09:45:41 IST" name="getProductByCategory" finished-at="2025-09-22T09:45:41 IST" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductByCategory -->
+        <test-method signature="getProductById()[pri:0, instance:testcases.ProductTest@74e28667]" started-at="2025-09-22T09:45:41 IST" name="getProductById" finished-at="2025-09-22T09:45:42 IST" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductById -->
+        <test-method signature="getSortedProductAsc()[pri:0, instance:testcases.ProductTest@74e28667]" started-at="2025-09-22T09:45:42 IST" name="getSortedProductAsc" finished-at="2025-09-22T09:45:42 IST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSortedProductAsc -->
+        <test-method signature="getSortedProductDesc()[pri:0, instance:testcases.ProductTest@74e28667]" started-at="2025-09-22T09:45:42 IST" name="getSortedProductDesc" finished-at="2025-09-22T09:45:43 IST" duration-ms="425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSortedProductDesc -->
+        <test-method signature="updateProduct()[pri:0, instance:testcases.ProductTest@74e28667]" started-at="2025-09-22T09:45:43 IST" name="updateProduct" finished-at="2025-09-22T09:45:43 IST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateProduct -->
+      </class> <!-- testcases.ProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

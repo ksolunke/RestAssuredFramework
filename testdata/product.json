@@ -1,0 +1,30 @@
+[
+	{
+		"title":"Product 1",
+		"price":100.25,
+		"description":"This is product 1...",
+		"image":"https://product1.in",
+		"category":"electronics"
+	},
+	{
+		"title":"Product 2",
+		"price":15.25,
+		"description":"This is product 2...",
+		"image":"https://product2.in",
+		"category":"books"
+	},
+	{
+		"title":"Product 3",
+		"price":40.25,
+		"description":"This is product 3...",
+		"image":"https://product3.in",
+		"category":"furniture"
+	},
+	{
+		"title":"Product 4",
+		"price":20.25,
+		"description":"This is product 4...",
+		"image":"https://product4.in",
+		"category":"electronics"
+	}
+]
