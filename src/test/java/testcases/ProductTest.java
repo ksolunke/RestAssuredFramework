@@ -214,4 +214,25 @@ public class ProductTest extends BaseClass
 								
 		}
 		
+		//Test Git
+		
+				@Test
+				public void deleteProduct1() throws Exception 
+				{
+					configreader = new configReader();
+					int productId = configreader.getIntProperty("productId");
+				
+					
+					given()
+						.pathParam("id", productId)
+						
+					.when()
+						.delete(Routes.PRODUCT_DELETE)
+				
+					.then()
+						.statusCode(200)
+						.log().all();
+										
+				}
+		
 }
